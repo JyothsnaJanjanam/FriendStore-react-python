@@ -1,4 +1,4 @@
-import { Flex, Grid, Spinner } from '@chakra-ui/react'
+import { Flex, Grid, Spinner, Text } from '@chakra-ui/react'
 import UserCard from './UserCard'
 import { useEffect, useState } from 'react'
 import { BASE_URL } from '../App';
